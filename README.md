@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mscurious
 - 👀 I’m interested in learning all things DataAnalytics
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Analyzing Seq Data using R
 - 📫 How to reach me sandraunorji@gmail.com
 
